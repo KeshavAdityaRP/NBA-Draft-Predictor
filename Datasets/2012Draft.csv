@@ -1,0 +1,52 @@
+pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,tov,pf,pts,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g
+1,2012,Anthony Davis,University of Kentucky,/players/d/davisan02.html,40,1281,210,337,3,20,144,203,119,415,50,54,186,41,78,567,.623,.150,.709,32.0,14.2,10.4,1.3
+2,2012,Michael Kidd-Gilchrist,University of Kentucky,/players/k/kiddgmi01.html,40,1245,160,326,13,51,143,192,103,297,75,39,37,87,97,476,.491,.255,.745,31.1,11.9,7.4,1.9
+3,2012,Bradley Beal,University of Florida,/players/b/bealbr01.html,37,1267,175,393,63,186,133,173,50,249,83,51,31,79,76,546,.445,.339,.769,34.2,14.8,6.7,2.2
+4,2012,Dion Waiters,Syracuse University,/players/w/waitedi01.html,71,1445,248,547,69,198,125,166,30,138,142,105,16,78,115,690,.453,.348,.753,20.4,9.7,1.9,2.0
+5,2012,Thomas Robinson,University of Kansas,/players/r/robinth01.html,105,1960,395,753,7,14,229,378,221,763,101,63,74,173,217,1026,.525,.500,.606,18.7,9.8,7.3,1.0
+6,2012,Damian Lillard,Weber State University,/players/l/lillada01.html,104,2452,584,1310,246,630,520,600,34,444,362,129,19,246,143,1934,.446,.390,.867,33.6,18.6,4.3,3.5
+7,2012,Harrison Barnes,University of North Carolina,/players/b/barneha02.html,75,2198,438,1018,116,332,234,319,149,414,96,68,29,146,140,1226,.430,.349,.734,29.3,16.3,5.5,1.3
+8,2012,Terrence Ross,University of Washington,/players/r/rosste01.html,69,1681,317,700,116,319,97,127,77,321,82,63,45,94,168,847,.453,.364,.764,24.4,12.3,4.7,1.2
+9,2012,Andre Drummond,University of Connecticut,/players/d/drumman01.html,34,967,157,292,0,2,26,88,114,257,15,28,92,52,75,340,.538,.000,.295,28.4,10.0,7.6,0.4
+10,2012,Austin Rivers,Duke University,/players/r/riverau01.html,34,1129,174,402,58,159,121,184,21,115,71,33,1,79,76,527,.433,.365,.658,33.2,15.5,3.4,2.1
+11,2012,Meyers Leonard,University of Illinois at Urbana-Champaign,/players/l/leoname01.html,65,1290,198,349,1,12,105,144,83,303,48,20,73,94,144,502,.567,.083,.729,19.8,7.7,4.7,0.7
+12,2012,Jeremy Lamb,University of Connecticut,/players/l/lambje01.html,75,2406,399,828,117,336,145,180,82,349,124,77,46,120,121,1060,.482,.348,.806,32.1,14.1,4.7,1.7
+13,2012,Kendall Marshall,University of North Carolina,/players/m/marshke01.html,73,2101,181,406,48,131,113,163,12,171,581,83,9,193,106,523,.446,.366,.693,28.8,7.2,2.3,8.0
+14,2012,John Henson,University of North Carolina,/players/h/hensojo01.html,109,2594,475,955,5,24,169,349,269,886,108,69,277,166,159,1124,.497,.208,.484,23.8,10.3,8.1,1.0
+15,2012,Maurice Harkless,St. John's University,/players/h/harklma01.html,32,1155,193,427,17,79,94,139,88,276,47,51,45,80,74,497,.452,.215,.676,36.1,15.5,8.6,1.5
+16,2012,Royce White,Iowa State University,/players/w/whitero03.html,34,1072,175,328,4,12,102,205,85,316,170,40,32,130,89,456,.534,.333,.498,31.5,13.4,9.3,5.0
+17,2012,Tyler Zeller,University of North Carolina,/players/z/zellety01.html,117,2579,548,1010,0,2,407,525,305,788,69,78,130,165,251,1503,.543,.000,.775,25.3,12.8,6.7,0.6
+18,2012,Terrence Jones,University of Kentucky,/players/j/joneste01.html,76,2311,383,820,42,128,256,401,188,608,111,92,140,137,182,1064,.467,.328,.638,30.4,14.0,8.0,1.5
+19,2012,Andrew Nicholson,St. Bonaventure University,/players/n/nichoan01.html,123,2918,809,1407,29,77,456,633,207,887,87,61,244,296,272,2103,.575,.377,.720,31.4,17.1,7.2,0.7
+21,2012,Jared Sullinger,Ohio State University,/players/s/sullija01.html,74,2295,450,849,19,52,363,495,247,717,89,80,59,130,199,1282,.530,.365,.733,31.0,17.3,9.7,1.2
+22,2012,Fab Melo,Syracuse University,/players/m/melofa01.html,63,1090,132,229,0,0,47,85,102,239,29,25,113,68,145,311,.576,,.553,17.3,4.9,3.8,0.5
+23,2012,John Jenkins,Vanderbilt University,/players/j/jenkijo01.html,98,2998,516,1102,306,699,320,374,41,265,111,67,27,130,122,1658,.468,.438,.856,30.6,16.9,2.7,1.1
+24,2012,Jared Cunningham,Oregon State University,/players/c/cunnija01.html,98,2733,380,835,84,244,427,566,93,294,193,219,24,251,247,1271,.455,.344,.754,27.9,13.0,3.0,2.0
+25,2012,Tony Wroten,University of Washington,/players/w/wroteto01.html,35,1062,198,447,9,56,154,264,80,176,130,66,13,132,93,559,.443,.161,.583,30.3,16.0,5.0,3.7
+26,2012,Miles Plumlee,Duke University,/players/p/plumlmi01.html,135,1968,262,470,1,1,125,200,235,650,45,62,87,138,269,650,.557,1.000,.625,17.7,4.8,4.8,0.3
+27,2012,Arnett Moultrie,Mississippi State University,/players/m/moultar01.html,100,2028,441,863,28,97,232,343,175,836,100,101,85,206,139,1142,.511,.289,.676,32.2,11.4,8.4,1.0
+28,2012,Perry Jones,Baylor University,/players/j/jonespe01.html,63,2030,344,659,12,43,162,239,168,467,78,44,47,125,148,862,.522,.279,.678,32.2,13.7,7.4,1.2
+29,2012,Marquis Teague,University of Kentucky,/players/t/teaguma01.html,40,1303,145,352,26,80,85,119,17,101,191,37,11,109,91,401,.412,.325,.714,32.6,10.0,2.5,4.8
+30,2012,Festus Ezeli,Vanderbilt University,/players/e/ezelife01.html,121,1808,330,587,0,0,274,469,187,543,18,41,205,195,256,934,.562,,.584,19.7,7.7,4.5,0.1
+31,2012,Jeff Taylor,Vanderbilt University,/players/t/tayloje03.html,134,3118,665,1378,115,321,452,652,198,752,252,146,60,309,237,1897,.483,.358,.693,30.3,14.2,5.6,1.9
+33,2012,Bernard James,Florida State University,/players/j/jamesbe01.html,69,1698,274,437,0,0,123,233,181,484,24,55,164,123,124,671,.627,,.528,24.6,9.7,7.0,0.3
+34,2012,Jae Crowder,Marquette University,/players/c/crowdja01.html,72,2174,375,762,103,294,196,287,153,545,131,136,67,74,178,1049,.492,.350,.683,30.2,14.6,7.6,1.8
+35,2012,Draymond Green,Michigan State University,/players/g/greendr01.html,145,3197,543,1163,91,252,340,495,244,1096,425,180,116,277,330,1517,.467,.361,.687,29.6,10.5,7.6,2.9
+36,2012,Orlando Johnson,University of California, Santa Barbara,/players/j/johnsor01.html,124,3071,738,1615,222,568,510,708,157,691,319,112,68,324,196,2208,.457,.391,.720,33.0,17.8,5.6,2.6
+37,2012,Quincy Acy,Baylor University,/players/a/acyqu01.html,139,2930,503,835,3,7,351,496,251,828,86,102,177,214,280,1360,.602,.429,.708,27.9,9.8,6.0,0.6
+38,2012,Quincy Miller,Baylor University,/players/m/millequ01.html,37,903,138,309,24,69,93,114,54,182,53,25,24,66,69,393,.447,.348,.816,24.4,10.6,4.9,1.4
+39,2012,Khris Middleton,Texas A&M University,/players/m/middlkh01.html,87,2263,340,789,92,287,209,272,131,396,175,87,17,173,187,981,.431,.321,.768,26.0,11.3,4.6,2.0
+40,2012,Will Barton,University of Memphis,/players/b/bartowi01.html,70,2306,397,842,76,254,192,262,119,452,201,104,42,164,154,1062,.471,.299,.733,32.9,15.2,6.5,2.9
+41,2012,Tyshawn Taylor,University of Kansas,/players/t/tayloty01.html,146,3111,551,1156,120,324,358,506,36,324,575,172,31,379,226,1580,.477,.370,.708,28.0,10.8,2.2,3.9
+42,2012,Doron Lamb,University of Kentucky,/players/l/lambdo01.html,78,2327,336,693,144,303,202,249,34,183,122,41,8,94,157,1018,.485,.475,.811,29.8,13.1,2.3,1.6
+43,2012,Mike Scott,University of Virginia,/players/s/scottmi01.html,130,2104,585,1122,16,44,352,454,172,944,124,85,51,211,126,1538,.521,.364,.775,30.1,11.8,7.3,1.0
+44,2012,Kim English,University of Missouri,/players/e/engliki01.html,141,2862,515,1227,239,606,301,414,75,430,204,151,28,236,199,1570,.420,.394,.727,27.8,11.1,3.0,1.4
+45,2012,Justin Hamilton,Louisiana State University,/players/h/hamilju01.html,96,1653,289,540,3,12,177,239,192,499,45,36,93,101,154,758,.535,.250,.741,25.8,7.9,5.2,0.5
+46,2012,Darius Miller,University of Kentucky,/players/m/milleda01.html,152,3025,444,990,175,462,185,227,120,489,278,114,100,214,259,1248,.448,.379,.815,26.1,8.2,3.2,1.8
+47,2012,Kevin Murphy,Tennessee Technological University,/players/m/murphke01.html,128,3108,706,1594,191,513,416,567,85,534,249,102,24,381,218,2019,.443,.372,.734,31.7,15.8,4.2,1.9
+49,2012,Kyle O'Quinn,Norfolk State University,/players/o/oquinky01.html,129,3024,610,1104,54,207,333,486,301,1092,122,69,283,262,325,1607,.553,.261,.685,30.9,12.5,8.5,0.9
+51,2012,Kris Joseph,Syracuse University,/players/j/josepkr01.html,140,3267,491,1094,112,338,382,544,154,627,208,179,67,217,189,1476,.449,.331,.702,30.8,10.5,4.5,1.5
+55,2012,Darius Johnson-Odom,Marquette University,/players/j/johnsda03.html,105,3238,558,1257,221,549,312,432,56,321,262,93,17,223,237,1649,.444,.403,.722,30.8,15.7,3.1,2.5
+58,2012,Robbie Hummel,Purdue University,/players/h/hummero01.html,127,1945,583,1315,216,555,390,464,99,862,268,131,112,138,130,1772,.443,.389,.841,31.4,14.0,6.8,2.1
+59,2012,Marcus Denmon,University of Missouri,/players/d/denmoma01.html,141,2962,597,1311,283,705,298,373,98,479,237,178,14,140,138,1775,.455,.401,.799,28.8,12.6,3.4,1.7
+60,2012,Robert Sacre,Gonzaga University,/players/s/sacrero01.html,136,2633,409,812,1,4,451,614,216,679,91,70,186,220,264,1270,.504,.250,.735,25.8,9.3,5.0,0.7

@@ -1,0 +1,47 @@
+pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,tov,pf,pts,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g
+1,2014,Andrew Wiggins,University of Kansas,/players/w/wiggian01.html,35,1148,189,422,43,126,176,227,76,205,54,41,34,80,94,597,.448,.341,.775,32.8,17.1,5.9,1.5
+2,2014,Jabari Parker,Duke University,/players/p/parkeja01.html,35,1074,236,499,38,106,160,214,105,306,41,37,43,81,83,670,.473,.358,.748,30.7,19.1,8.7,1.2
+3,2014,Joel Embiid,University of Kansas,/players/e/embiijo01.html,28,647,107,171,1,5,98,143,65,227,38,25,72,66,94,313,.626,.200,.685,23.1,11.2,8.1,1.4
+4,2014,Aaron Gordon,University of Arizona,/players/g/gordoaa01.html,38,1187,189,382,16,45,76,180,102,303,75,34,39,55,90,470,.495,.356,.422,31.2,12.4,8.0,2.0
+6,2014,Marcus Smart,Oklahoma State University,/players/s/smartma01.html,64,2120,314,760,87,295,349,465,94,375,287,188,40,193,183,1064,.413,.295,.751,33.1,16.6,5.9,4.5
+7,2014,Julius Randle,University of Kentucky,/players/r/randlju01.html,40,1233,196,391,3,18,204,289,139,416,57,20,31,101,91,599,.501,.167,.706,30.8,15.0,10.4,1.4
+8,2014,Nik Stauskas,University of Michigan,/players/s/stausni01.html,75,2471,323,692,172,390,242,291,35,221,170,42,20,111,73,1060,.467,.441,.832,32.9,14.1,2.9,2.3
+9,2014,Noah Vonleh,Indiana University,/players/v/vonleno01.html,30,794,113,216,16,33,96,134,71,269,18,26,41,64,81,338,.523,.485,.716,26.5,11.3,9.0,0.6
+10,2014,Elfrid Payton,University of Louisiana at Lafayette,/players/p/paytoel01.html,100,3155,501,1032,30,112,394,645,148,508,486,197,51,336,226,1426,.485,.268,.611,31.6,14.3,5.1,4.9
+11,2014,Doug McDermott,Creighton University,/players/m/mcderdo01.html,145,4569,1141,2075,274,598,594,715,281,1088,194,34,14,321,265,3150,.550,.458,.831,31.5,21.7,7.5,1.3
+13,2014,Zach LaVine,University of California, Los Angeles,/players/l/lavinza01.html,37,904,127,288,48,128,47,68,18,94,66,33,6,42,73,349,.441,.375,.691,24.4,9.4,2.5,1.8
+14,2014,T.J. Warren,North Carolina State University,/players/w/warretj01.html,70,2182,528,951,45,143,195,298,187,396,68,105,36,117,174,1296,.555,.315,.654,31.2,18.5,5.7,1.0
+15,2014,Adreian Payne,Michigan State University,/players/p/paynead01.html,138,2759,447,850,61,149,277,367,211,735,85,76,141,187,297,1232,.526,.409,.755,20.0,8.9,5.3,0.6
+17,2014,James Young,University of Kentucky,/players/y/youngja01.html,40,1296,183,450,82,235,125,177,41,171,67,30,8,75,83,573,.407,.349,.706,32.4,14.3,4.3,1.7
+18,2014,Tyler Ennis,Syracuse University,/players/e/ennisty01.html,34,1215,148,360,30,85,114,149,27,115,187,71,6,58,69,440,.411,.353,.765,35.7,12.9,3.4,5.5
+19,2014,Gary Harris,Michigan State University,/players/h/harriga01.html,69,2141,345,784,146,388,189,240,67,226,140,108,21,111,141,1025,.440,.376,.788,31.0,14.9,3.3,2.0
+21,2014,Mitch McGary,University of Michigan,/players/m/mcgarmi01.html,47,967,164,279,0,2,39,76,122,312,37,57,34,60,117,367,.588,.000,.513,20.6,7.8,6.6,0.8
+22,2014,Jordan Adams,University of California, Los Angeles,/players/a/adamsjo01.html,69,2081,373,798,98,296,287,342,88,319,142,168,17,94,147,1131,.467,.331,.839,30.2,16.4,4.6,2.1
+23,2014,Rodney Hood,Duke University,/players/h/hoodro01.html,67,2200,318,699,118,298,136,176,60,291,139,38,23,84,132,890,.455,.396,.773,32.8,13.3,4.3,2.1
+24,2014,Shabazz Napier,University of Connecticut,/players/n/napiesh01.html,143,4614,595,1447,260,693,509,626,101,576,646,251,30,350,301,1959,.411,.375,.813,32.3,13.7,4.0,4.5
+26,2014,P.J. Hairston,University of North Carolina,/players/h/hairspj02.html,71,1286,220,567,127,364,140,175,93,228,74,57,20,66,118,707,.388,.349,.800,18.1,10.0,3.2,1.0
+28,2014,C.J. Wilcox,University of Washington,/players/w/wilcocj01.html,131,3735,640,1478,301,773,299,356,110,441,214,112,98,178,250,1880,.433,.389,.840,28.5,14.4,3.4,1.6
+29,2014,Josh Huestis,Stanford University,/players/h/huestjo01.html,135,3376,392,870,66,207,169,277,292,834,113,67,190,125,230,1019,.451,.319,.610,25.0,7.5,6.2,0.8
+30,2014,Kyle Anderson,University of California, Los Angeles,/players/a/anderky01.html,71,2242,303,670,36,96,223,303,119,617,355,126,58,183,132,865,.452,.375,.736,31.6,12.2,8.7,5.0
+32,2014,K.J. McDaniels,Clemson University,/players/m/mcdankj01.html,94,2287,362,804,81,259,230,300,170,450,85,83,178,140,168,1035,.450,.313,.767,24.3,11.0,4.8,0.9
+33,2014,Joe Harris,University of Virginia,/players/h/harrijo01.html,135,4084,568,1276,263,646,299,414,116,509,254,116,48,213,307,1698,.445,.407,.722,30.3,12.6,3.8,1.9
+34,2014,Cleanthony Early,Wichita State University,/players/e/earlycl01.html,75,1965,371,790,113,325,280,342,137,425,50,58,63,131,183,1135,.470,.348,.819,26.2,15.1,5.7,0.7
+35,2014,Jarnell Stokes,University of Tennessee,/players/s/stokeja01.html,87,2587,411,776,0,3,307,489,337,836,129,65,94,180,190,1129,.530,.000,.628,29.7,13.0,9.6,1.5
+36,2014,Johnny O'Bryant III,Louisiana State University,/players/o/obryajo01.html,91,2465,446,956,6,27,257,415,277,702,115,47,72,267,255,1155,.467,.222,.619,27.1,12.7,7.7,1.3
+37,2014,DeAndre Daniels,University of Connecticut,/players/d/daniede01.html,99,2356,359,791,83,238,152,202,114,457,52,62,117,128,201,953,.454,.349,.752,23.8,9.6,4.6,0.5
+38,2014,Spencer Dinwiddie,University of Colorado,/players/d/dinwisp01.html,86,2590,290,690,115,298,420,506,42,288,227,97,29,153,181,1115,.420,.386,.830,30.1,13.0,3.3,2.6
+39,2014,Jerami Grant,Syracuse University,/players/g/grantje01.html,72,1577,187,385,6,20,161,251,124,335,62,43,36,63,129,541,.486,.300,.641,21.9,7.5,4.7,0.9
+40,2014,Glenn Robinson III,University of Michigan,/players/r/robingl02.html,76,2506,349,665,56,179,158,220,137,375,87,74,21,78,99,912,.525,.313,.718,33.0,12.0,4.9,1.1
+42,2014,Nick Johnson,University of Arizona,/players/j/johnsni01.html,108,3339,441,1048,144,401,307,418,64,395,304,137,64,197,220,1333,.421,.359,.734,30.9,12.3,3.7,2.8
+44,2014,Markel Brown,Oklahoma State University,/players/b/brownma02.html,134,4088,551,1255,146,421,407,555,104,579,308,136,113,239,285,1655,.439,.347,.733,30.5,12.4,4.3,2.3
+45,2014,Dwight Powell,Stanford University,/players/p/poweldw01.html,136,3569,515,1110,33,114,402,557,225,853,240,125,118,283,390,1465,.464,.289,.722,26.2,10.8,6.3,1.8
+46,2014,Jordan Clarkson,University of Missouri,/players/c/clarkjo01.html,93,2952,473,1075,95,295,392,487,74,310,249,87,26,254,211,1433,.440,.322,.805,31.7,15.4,3.3,2.7
+47,2014,Russ Smith,University of Louisville,/players/s/smithru01.html,133,3228,620,1501,180,521,488,642,98,359,378,257,8,316,321,1908,.413,.345,.760,24.3,14.3,2.7,2.8
+48,2014,Lamar Patterson,University of Pittsburgh,/players/p/pattela01.html,149,3628,477,1097,171,463,285,394,173,588,427,146,44,244,276,1410,.435,.369,.723,24.3,9.5,3.9,2.9
+49,2014,Cameron Bairstow,University of New Mexico,/players/b/bairsca01.html,134,2787,418,808,2,6,401,559,234,637,102,62,99,157,282,1239,.517,.333,.717,20.8,9.2,4.8,0.8
+50,2014,Alec Brown,University of Wisconsin-Green Bay,/players/b/brownal01.html,126,3693,604,1299,78,195,392,524,287,800,111,74,309,263,336,1678,.465,.400,.748,29.3,13.3,6.3,0.9
+55,2014,Semaj Christon,Xavier University,/players/c/chrisse01.html,64,2227,363,785,26,77,282,421,20,177,281,90,11,198,152,1034,.462,.338,.670,34.8,16.2,2.8,4.4
+56,2014,Roy Devyn Marble,University of Iowa,/players/m/marblde01.html,136,3749,564,1359,134,396,432,595,118,460,397,176,33,232,212,1694,.415,.338,.726,27.6,12.5,3.4,2.9
+58,2014,Jordan McRae,University of Tennessee,/players/m/mcraejo01.html,114,3088,496,1190,179,522,350,455,75,371,209,73,97,225,218,1521,.417,.343,.769,27.1,13.3,3.3,1.8
+59,2014,Xavier Thames,San Diego State University,/players/t/thamexa01.html,128,3581,427,1080,123,353,397,488,63,330,354,144,22,211,241,1374,.395,.348,.814,28.0,10.7,2.6,2.8
+60,2014,Cory Jefferson,Baylor University,/players/j/jeffeco01.html,130,2589,431,794,17,50,280,424,243,722,51,42,166,101,226,1159,.543,.340,.660,19.9,8.9,5.6,0.4

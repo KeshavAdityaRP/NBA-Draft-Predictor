@@ -1,0 +1,29 @@
+pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,tov,pf,pts,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g
+2,2004,Emeka Okafor,University of Connecticut,/players/o/okafoem01.html,103,3274,587,995,0,0,252,447,,1091,81,91,441,,,1426,.590,,.564,31.8,13.8,10.6,0.8
+3,2004,Ben Gordon,University of Connecticut,/players/g/gordobe01.html,106,3291,590,1342,246,581,369,464,,415,437,125,19,,,1795,.440,.423,.795,31.0,16.9,3.9,4.1
+5,2004,Devin Harris,University of Wisconsin,/players/h/harride01.html,96,3356,438,980,187,499,362,465,,391,295,164,40,,,1425,.447,.375,.778,35.0,14.8,4.1,3.1
+6,2004,Josh Childress,Stanford University,/players/c/childjo01.html,86,2458,386,881,104,310,185,245,,583,155,77,95,,,1061,.438,.335,.755,28.6,12.3,6.8,1.8
+7,2004,Luol Deng,Duke University,/players/d/denglu01.html,37,1149,210,441,40,111,98,138,,255,68,49,39,,,558,.476,.360,.710,31.1,15.1,6.9,1.8
+8,2004,Rafael Araujo,Brigham Young University,/players/a/araujra01.html,62,1697,366,646,11,41,192,278,,589,75,88,40,,,935,.567,.268,.691,27.4,15.1,9.5,1.2
+9,2004,Andre Iguodala,University of Arizona,/players/i/iguodan01.html,62,1576,205,483,32,117,152,206,,409,213,95,29,,,594,.424,.274,.738,25.4,9.6,6.6,3.4
+10,2004,Luke Jackson,University of Oregon,/players/j/jackslu02.html,126,3665,645,1398,174,433,506,596,,746,424,160,37,,,1970,.461,.402,.849,29.1,15.6,5.9,3.4
+14,2004,Kris Humphries,University of Minnesota,/players/h/humphkr01.html,29,990,221,498,17,50,170,229,,294,20,27,33,,,629,.444,.340,.742,34.1,21.7,10.1,0.7
+16,2004,Kirk Snyder,University of Nevada, Reno,/players/s/snydeki01.html,84,2586,477,1120,106,342,344,508,,537,224,76,63,,,1404,.426,.310,.677,30.8,16.7,6.4,2.7
+20,2004,Jameer Nelson,Saint Joseph's University,/players/n/nelsoja01.html,125,4311,703,1550,229,628,459,584,,581,713,250,10,,,2094,.454,.365,.786,34.5,16.8,4.6,5.7
+24,2004,Delonte West,Saint Joseph's University,/players/w/westde01.html,89,2384,450,920,113,300,222,267,,377,270,121,15,,,1235,.489,.377,.831,26.8,13.9,4.2,3.0
+25,2004,Tony Allen,Oklahoma State University,/players/a/allento01.html,99,3072,574,1176,64,182,337,512,,560,301,134,54,,,1549,.488,.352,.658,31.0,15.6,5.7,3.0
+26,2004,Kevin Martin,Western Carolina University,/players/m/martike02.html,79,2515,565,1224,174,503,534,635,,354,133,134,30,,,1838,.462,.346,.841,31.8,23.3,4.5,1.7
+29,2004,David Harrison,University of Colorado,/players/h/harrida01.html,88,2480,489,813,0,1,339,613,,707,52,54,225,,,1317,.601,.000,.553,28.2,15.0,8.0,0.6
+31,2004,Jackson Vroman,Iowa State University,/players/v/vromaja01.html,63,1930,341,611,1,13,151,295,,598,131,77,70,,,834,.558,.077,.512,30.6,13.2,9.5,2.1
+33,2004,Lionel Chalmers,Xavier University,/players/c/chalmli01.html,123,3897,512,1205,235,632,297,415,,361,405,154,7,,,1556,.425,.372,.716,31.7,12.7,2.9,3.3
+34,2004,Donta Smith,Southeastern Illinois College,/players/s/smithdo04.html,69,,497,891,111,266,328,420,,435,220,,,,,1433,.558,.417,.781,,20.8,6.3,3.2
+35,2004,Andre Emmett,Texas Tech University,/players/e/emmetan01.html,128,4140,882,1765,54,173,438,623,,765,201,164,43,,,2256,.500,.312,.703,32.3,17.6,6.0,1.6
+36,2004,Antonio Burks,University of Memphis,/players/b/burksan01.html,91,2786,391,834,63,157,183,272,,233,487,177,15,,,1028,.469,.401,.673,30.6,11.3,2.6,5.4
+37,2004,Royal Ivey,University of Texas at Austin,/players/i/iveyro01.html,133,3287,367,807,53,157,249,351,,406,300,124,25,,,1036,.455,.338,.709,24.7,7.8,3.1,2.3
+38,2004,Chris Duhon,Duke University,/players/d/duhonch01.html,144,4813,432,1033,162,505,242,349,,489,819,300,16,,,1268,.418,.321,.693,33.4,8.8,3.4,5.7
+40,2004,Justin Reed,University of Mississippi,/players/r/reedju01.html,122,3496,679,1425,45,158,382,540,,766,132,123,89,,,1785,.476,.285,.707,28.7,14.6,6.3,1.1
+43,2004,Trevor Ariza,University of California, Los Angeles,/players/a/arizatr01.html,25,789,107,251,18,76,57,113,,162,52,42,11,,,289,.426,.237,.504,31.6,11.6,6.5,2.1
+45,2004,Bernard Robinson,University of Michigan,/players/r/robinbe01.html,120,3666,550,1251,69,232,336,413,,640,364,169,47,,,1505,.440,.297,.814,30.6,12.5,5.3,3.0
+47,2004,Pape Sow,California State University, Fullerton,/players/s/sowpa01.html,72,2334,381,814,20,68,353,529,,654,56,104,61,,,1135,.468,.294,.667,32.4,15.8,9.1,0.8
+53,2004,Matt Freije,Vanderbilt University,/players/f/freijma01.html,121,3472,632,1412,183,515,444,565,,591,114,79,71,,,1891,.448,.355,.786,28.7,15.6,4.9,0.9
+55,2004,Luis Flores,Manhattan College,/players/f/florelu01.html,119,3654,683,1514,166,438,628,722,,446,229,175,21,,,2160,.451,.379,.870,30.7,18.2,3.7,1.9

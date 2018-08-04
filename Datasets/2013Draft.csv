@@ -1,0 +1,45 @@
+pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,tov,pf,pts,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g
+1,2013,Anthony Bennett,University of Nevada, Las Vegas,/players/b/bennean01.html,35,950,202,379,36,96,124,177,86,285,34,24,43,65,80,564,.533,.375,.701,27.1,16.1,8.1,1.0
+2,2013,Victor Oladipo,Indiana University,/players/o/oladivi01.html,104,2558,406,754,48,142,257,359,207,537,175,161,56,203,248,1117,.538,.338,.716,24.6,10.7,5.2,1.7
+3,2013,Otto Porter,Georgetown University,/players/p/porteot01.html,64,2077,293,588,55,155,181,241,121,457,135,94,55,85,125,822,.498,.355,.751,32.5,12.8,7.1,2.1
+4,2013,Cody Zeller,Indiana University,/players/z/zelleco01.html,72,2087,399,674,0,2,359,475,188,525,92,86,87,141,177,1157,.592,.000,.756,29.0,16.1,7.3,1.3
+5,2013,Alex Len,University of Maryland,/players/l/lenal01.html,60,1470,225,418,1,9,132,199,145,417,50,12,125,93,155,583,.538,.111,.663,24.5,9.7,7.0,0.8
+6,2013,Nerlens Noel,University of Kentucky,/players/n/noelne01.html,24,765,98,166,0,0,55,104,65,227,38,50,106,45,62,251,.590,,.529,31.9,10.5,9.5,1.6
+7,2013,Ben McLemore,University of Kansas,/players/m/mclembe01.html,37,1191,198,400,73,174,120,138,47,192,73,37,25,77,69,589,.495,.420,.870,32.2,15.9,5.2,2.0
+8,2013,Kentavious Caldwell-Pope,University of Georgia,/players/c/caldwke01.html,64,2114,338,814,149,439,188,250,82,392,96,123,28,100,139,1013,.415,.339,.752,33.0,15.8,6.1,1.5
+9,2013,Trey Burke,University of Michigan,/players/b/burketr01.html,73,2605,436,969,133,362,226,291,43,242,416,93,33,180,126,1231,.450,.367,.777,35.7,16.9,3.3,5.7
+10,2013,CJ McCollum,Lehigh University,/players/m/mccolcj01.html,111,3657,767,1746,217,576,610,739,167,696,304,228,51,267,195,2361,.439,.377,.825,32.9,21.3,6.3,2.7
+11,2013,Michael Carter-Williams,Syracuse University,/players/c/cartemi01.html,66,1678,180,452,42,137,142,209,60,237,345,129,27,154,117,544,.398,.307,.679,25.4,8.2,3.6,5.2
+12,2013,Steven Adams,University of Pittsburgh,/players/a/adamsst01.html,32,749,100,175,0,0,31,70,90,203,20,21,65,35,52,231,.571,,.443,23.4,7.2,6.3,0.6
+13,2013,Kelly Olynyk,Gonzaga University,/players/o/olynyke01.html,101,1735,338,569,25,75,202,285,152,461,107,52,46,140,197,903,.594,.333,.709,17.2,8.9,4.6,1.1
+14,2013,Shabazz Muhammad,University of California, Los Angeles,/players/m/muhamsh01.html,32,987,202,456,40,106,128,180,87,167,27,23,4,51,53,572,.443,.377,.711,30.8,17.9,5.2,0.8
+18,2013,Shane Larkin,University of Miami,/players/l/larkish01.html,68,2131,256,585,101,269,147,182,35,218,245,121,6,142,111,760,.438,.375,.808,31.3,11.2,3.2,3.6
+20,2013,Tony Snell,University of New Mexico,/players/s/snellto01.html,104,2583,311,738,165,434,165,201,41,251,213,53,36,154,122,952,.421,.380,.821,24.8,9.2,2.4,2.0
+21,2013,Gorgui Dieng,University of Louisville,/players/d/dienggo01.html,102,2789,338,620,1,3,174,272,304,801,127,104,267,166,280,851,.545,.333,.640,27.3,8.3,7.9,1.2
+22,2013,Mason Plumlee,Duke University,/players/p/plumlma01.html,141,3652,525,915,2,10,332,569,333,1088,212,115,199,282,347,1384,.574,.200,.583,25.9,9.8,7.7,1.5
+23,2013,Solomon Hill,University of Arizona,/players/h/hillso01.html,139,4030,487,1012,115,307,341,458,250,773,304,127,49,290,339,1430,.481,.375,.745,29.0,10.3,5.6,2.2
+24,2013,Tim Hardaway,University of Michigan,/players/h/hardati02.html,107,3560,527,1239,202,589,276,381,62,440,225,76,33,182,212,1532,.425,.343,.724,33.3,14.3,4.1,2.1
+25,2013,Reggie Bullock,University of North Carolina,/players/b/bullore01.html,100,2457,358,815,188,486,85,118,156,495,169,87,21,94,121,989,.439,.387,.720,24.6,9.9,5.0,1.7
+26,2013,Andre Roberson,University of Colorado,/players/r/roberan03.html,105,2970,382,741,50,143,198,340,309,1045,119,164,150,183,274,1012,.516,.350,.582,28.3,9.6,10.0,1.1
+29,2013,Archie Goodwin,University of Kentucky,/players/g/goodwar01.html,33,1048,157,357,17,64,135,212,48,152,88,36,15,101,97,466,.440,.266,.637,31.8,14.1,4.6,2.7
+31,2013,Allen Crabbe,University of California,/players/c/crabbal01.html,98,3402,533,1195,209,547,262,320,85,559,219,84,57,182,165,1537,.446,.382,.819,34.7,15.7,5.7,2.2
+33,2013,Carrick Felix,Arizona State University,/players/f/felixca01.html,94,2626,341,748,99,304,174,247,125,450,125,96,74,162,224,955,.456,.326,.704,27.9,10.2,4.8,1.3
+34,2013,Isaiah Canaan,Murray State University,/players/c/canaais01.html,132,3876,635,1411,304,725,476,593,73,366,385,157,10,311,241,2050,.450,.419,.803,29.4,15.5,2.8,2.9
+35,2013,Glen Rice,Georgia Institute of Technology,/players/r/ricegl02.html,87,2156,316,727,100,289,129,211,143,421,185,111,47,162,194,861,.435,.346,.611,24.8,9.9,4.8,2.1
+36,2013,Ray McCallum,University of Detroit Mercy,/players/m/mccalra01.html,102,3519,546,1173,97,335,429,593,126,486,451,175,32,233,210,1618,.465,.290,.723,34.5,15.9,4.8,4.4
+37,2013,Tony Mitchell,University of North Texas,/players/m/mitchto02.html,55,1713,258,526,48,141,191,272,136,511,62,51,157,143,163,755,.490,.340,.702,31.1,13.7,9.3,1.1
+38,2013,Nate Wolters,South Dakota State University,/players/w/woltena01.html,127,4204,773,1716,158,462,648,807,120,601,668,192,21,280,229,2352,.450,.342,.803,33.1,18.5,4.7,5.3
+39,2013,Jeff Withey,University of Kansas,/players/w/witheje01.html,117,2319,327,576,1,1,283,390,185,628,69,59,311,138,208,938,.568,1.000,.726,19.8,8.0,5.4,0.6
+40,2013,Grant Jerrett,University of Arizona,/players/j/jerregr01.html,34,606,63,154,32,79,18,22,37,122,18,16,33,19,44,176,.409,.405,.818,17.8,5.2,3.6,0.5
+41,2013,Jamaal Franklin,San Diego State University,/players/f/frankja01.html,85,2198,362,849,98,325,340,436,128,596,162,86,51,218,182,1162,.426,.302,.780,25.9,13.7,7.0,1.9
+42,2013,Pierre Jackson,Baylor University,/players/j/jackspi01.html,74,2424,390,884,157,414,298,369,57,245,478,122,3,256,168,1235,.441,.379,.808,32.8,16.7,3.3,6.5
+44,2013,Mike Muscala,Bucknell University,/players/m/muscami01.html,133,3815,723,1443,21,67,569,695,301,1093,211,56,271,217,312,2036,.501,.313,.819,28.7,15.3,8.2,1.6
+46,2013,Erick Green,Virginia Polytechnic Institute and State University,/players/g/greener01.html,129,3648,592,1356,140,414,418,520,59,332,326,156,26,178,208,1742,.437,.338,.804,28.3,13.5,2.6,2.5
+48,2013,Ryan Kelly,Duke University,/players/k/kellyry01.html,126,2437,314,682,102,269,219,272,141,465,117,73,133,104,237,949,.460,.379,.805,19.3,7.5,3.7,0.9
+49,2013,Erik Murphy,University of Florida,/players/m/murpher01.html,136,2488,397,773,143,329,115,152,160,507,95,58,85,139,297,1052,.514,.435,.757,18.3,7.7,3.7,0.7
+52,2013,Lorenzo Brown,North Carolina State University,/players/b/brownlo01.html,101,3289,410,955,64,210,283,382,74,425,589,172,50,304,190,1167,.429,.305,.741,32.6,11.6,4.2,5.8
+53,2013,Colton Iverson,Colorado State University,/players/i/iversco01.html,133,2194,379,694,0,0,256,454,228,764,120,59,118,208,231,1014,.546,,.564,21.7,7.6,5.7,0.9
+54,2013,Arsalan Kazemi,University of Oregon,/players/k/kazemar01.html,130,3776,500,895,0,2,523,771,401,1313,197,225,107,232,319,1523,.559,.000,.678,29.0,11.7,10.1,1.5
+56,2013,Peyton Siva,University of Louisville,/players/s/sivape01.html,144,3774,412,989,99,340,292,396,48,350,677,254,19,384,379,1215,.417,.291,.737,26.2,8.4,2.4,4.7
+57,2013,Alex Oriakhi,University of Missouri,/players/o/oriakal01.html,143,3640,447,843,0,1,277,432,395,1031,49,53,220,168,335,1171,.530,.000,.641,25.5,8.2,7.2,0.3
+58,2013,Deshaun Thomas,Ohio State University,/players/t/thomade01.html,113,3052,607,1269,143,418,271,338,225,560,100,48,26,129,160,1628,.478,.342,.802,27.0,14.4,5.0,0.9
