@@ -20,7 +20,7 @@ pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,t
 20,2018,Josh Okogie,Georgia Institute of Technology,/players/o/okogijo01.html,61,2014,327,748,66,173,313,403,109,351,120,90,50,138,164,1033,.437,.382,.777,33.0,16.9,5.8,2.0
 21,2018,Grayson Allen,Duke University,/players/a/allengr01.html,142,3962,606,1409,291,766,493,591,76,450,432,147,14,240,297,1996,.430,.380,.834,27.9,14.1,3.2,3.0
 22,2018,Chandler Hutchison,Boise State University,/players/h/hutchch01.html,123,2948,523,1098,79,224,353,514,138,672,255,120,29,236,268,1478,.476,.353,.687,24.0,12.0,5.5,2.1
-23,2018,Aaron Holiday,University of California, Los Angeles,/players/h/holidaa01.html,101,3209,476,1058,180,427,311,391,48,320,477,126,22,304,271,1443,.450,.422,.795,31.8,14.3,3.2,4.7
+23,2018,Aaron Holiday,University of California Los Angeles,/players/h/holidaa01.html,101,3209,476,1058,180,427,311,391,48,320,477,126,22,304,271,1443,.450,.422,.795,31.8,14.3,3.2,4.7
 25,2018,Moritz Wagner,University of Michigan,/players/w/wagnemo01.html,107,2244,421,770,110,286,162,232,128,484,57,83,40,126,269,1114,.547,.385,.698,21.0,10.4,4.5,0.5
 26,2018,Landry Shamet,Wichita State University,/players/s/shamela01.html,71,2029,296,617,159,364,163,201,39,213,288,54,14,108,146,914,.480,.437,.811,28.6,12.9,3.0,4.1
 27,2018,Robert Williams,Texas A&M University,/players/w/williro04.html,61,1570,293,496,2,30,92,170,165,530,87,45,155,106,123,680,.591,.067,.541,25.7,11.1,8.7,1.4
@@ -47,6 +47,6 @@ pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,t
 54,2018,Shake Milton,Southern Methodist University,/players/m/miltosh01.html,87,3019,388,859,190,445,200,253,38,336,337,99,33,159,135,1166,.452,.427,.791,34.7,13.4,3.9,3.9
 56,2018,Ray Spalding,University of Louisville,/players/s/spaldra01.html,100,2174,332,596,6,25,143,247,228,630,89,104,111,131,261,813,.557,.240,.579,21.7,8.1,6.3,0.9
 57,2018,Kevin Hervey,University of Texas at Arlington,/players/h/herveke01.html,115,3186,631,1435,204,630,317,413,221,921,216,114,55,236,215,1783,.440,.324,.768,27.7,15.5,8.0,1.9
-58,2018,Thomas Welsh,University of California, Los Angeles,/players/w/welshth01.html,132,3295,532,990,46,113,138,173,311,1035,103,55,143,90,331,1248,.537,.407,.798,25.0,9.5,7.8,0.8
+58,2018,Thomas Welsh,University of California Los Angeles,/players/w/welshth01.html,132,3295,532,990,46,113,138,173,311,1035,103,55,143,90,331,1248,.537,.407,.798,25.0,9.5,7.8,0.8
 59,2018,George King,University of Colorado,/players/k/kingge03.html,127,2866,444,1001,181,451,225,308,183,681,88,50,37,196,224,1294,.444,.401,.731,22.6,10.2,5.4,0.7
 60,2018,Kostas Antetokounmpo,University of Dayton,/players/a/antetko01.html,29,438,58,101,2,15,33,64,24,83,13,7,31,39,66,151,.574,.133,.516,15.1,5.2,2.9,0.4
