@@ -82,7 +82,7 @@ def KMeansClusting():
     X = sklearn_pca.fit_transform(X_std)
     PCA1 = X[:,:1]
     PCA2 = X[:,1:]
-    kmeans = KMeans(n_clusters=4)
+    kmeans = KMeans(n_clusters=10)
     kmeans.fit(X)
 
     centroids = kmeans.cluster_centers_
@@ -91,21 +91,29 @@ def KMeansClusting():
     print(centroids)
     print(labels)  
 
-    colors = ["g.","r.","c.","y."]
+    # colors = ["g.","r.","c.","y.", "w.", "m.", "k."]
+    # c = color[np.random.random_sample(), np.random.random_sample(), np.random.random_sample()]
+    colors = ['tab:blue', 'tab:orange', 'tab:green', 'tab:red', 'tab:purple', 'tab:brown', 'tab:pink', 'tab:gray', 'tab:olive', 'tab:cyan']
+    markers = ['o', '.', ',', 'x', '+', 'v', '^', '<', '>', 's']
 
     fig, ax = plt.subplots()
 
     for i in range(len(X)):
         # print("coordinate:",X[i], "label:", labels[i])
-        plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize = 10)
+        # plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize = 10, marker = "x")
+        plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize = 10, marker = markers[labels[i]])
 
 
     plt.scatter(centroids[:, 0],centroids[:, 1], marker = "x", s=150, linewidths = 5, zorder = 10)
 
     for x_label, y_label, label in zip(PCA1, PCA2, playersNames):
-        ax.annotate(label, (x_label, y_label))  
+        ax.annotate(label, (x_label, y_label))    
 
-    plt.show()      
+    for x,y in zip(labels, playersNames):
+        if (x == 2):
+            print (y[0] + " " +str(x)) 
+
+    plt.show()         
 
 
 KMeansClusting()
