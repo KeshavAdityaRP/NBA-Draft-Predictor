@@ -3,6 +3,7 @@ import pandas as pd
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import Normalizer
 import scipy
 from sklearn import decomposition
 from sklearn.decomposition import PCA as sklearnPCA
@@ -71,18 +72,29 @@ def KMeansClusting():
     plt.rcParams['figure.figsize'] = (16, 9)
     plt.style.use('ggplot')
     # data = pd.read_csv('Datasets/collegeStats.csv')
-    # data = pd.read_csv('Datasets/2018Draft.csv')
-    data = pd.read_csv('Datasets/last5DraftClasses.csv')    
-    playersStats = data[['pts_per_g','trb_per_g','ast_per_g']].copy()
+    data = pd.read_csv('Datasets/2018Draft.csv')
+    # data = pd.read_csv('Datasets/2017Draft.csv')
+    # data = pd.read_csv('Datasets/2016Draft.csv')
+    # data = pd.read_csv('Datasets/last5DraftClasses.csv')  
+    # data = pd.read_csv('Datasets/last3DraftClasses.csv')  
+    # data = pd.read_csv('Datasets/collegeSet2.csv')    
+    # playersStats = data[['pts_per_g','trb_per_g','ast_per_g']].copy()
+    playersStats = data[['pts','trb','ast','stl','blk']].copy()
+    # playersStats = data[['fg','fga','fg3','fg3a','ft','fta','orb','trb','ast','stl','blk','tov','pf','pts','fg_pct','fg3_pct','ft_pct','mp_per_g','pts_per_g','trb_per_g','ast_per_g']].copy()
+    # playersStats = data[['pts_per_g','trb_per_g','ast_per_g','ast','stl','blk']].copy()
     playersNames = data[['name']].copy()
     playersNames = playersNames.values 
     playersStats = playersStats.values
     X_std = StandardScaler().fit_transform(playersStats)
+    # X_std = Normalizer().fit_transform(playersStats)
     sklearn_pca = sklearnPCA(n_components=2)
     X = sklearn_pca.fit_transform(X_std)
+    print ("Component Values")
+    a, b , c = sklearn_pca._fit(X_std)
+    print (b)
     PCA1 = X[:,:1]
     PCA2 = X[:,1:]
-    kmeans = KMeans(n_clusters=10)
+    kmeans = KMeans(n_clusters=2)
     kmeans.fit(X)
 
     centroids = kmeans.cluster_centers_
@@ -93,8 +105,13 @@ def KMeansClusting():
 
     # colors = ["g.","r.","c.","y.", "w.", "m.", "k."]
     # c = color[np.random.random_sample(), np.random.random_sample(), np.random.random_sample()]
-    colors = ['tab:blue', 'tab:orange', 'tab:green', 'tab:red', 'tab:purple', 'tab:brown', 'tab:pink', 'tab:gray', 'tab:olive', 'tab:cyan']
-    markers = ['o', '.', ',', 'x', '+', 'v', '^', '<', '>', 's']
+    # colors = ['tab:blue', 'tab:orange', 'tab:green', 'tab:red', 'tab:purple', 'tab:brown', 'tab:pink', 'tab:gray', 'tab:olive', 'tab:cyan']
+    # markers = ['o', '.', ',', 'x', '+', 'v', '^', '<', '>', 's']
+    # colors = ['tab:blue', 'tab:orange', 'tab:green', 'tab:purple']
+    # markers = ['o', 'x', '+', 'v']    
+    colors = ['tab:blue', 'tab:orange', 'tab:green']
+    markers = ['o', 'x', 'v']    
+
 
     fig, ax = plt.subplots()
 

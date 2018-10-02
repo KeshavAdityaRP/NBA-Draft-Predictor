@@ -16,19 +16,19 @@ pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,t
 20,2016,Caris LeVert,University of Michigan,/players/l/leverca01.html,103,2721,366,843,134,334,204,265,39,364,275,97,22,136,151,1070,.434,.401,.770,26.4,10.4,3.5,2.7
 21,2016,DeAndre Bembry,Saint Joseph's University,/players/b/bembrde01.html,101,3645,580,1270,120,385,310,494,137,672,364,143,78,248,249,1590,.457,.312,.628,36.1,15.7,6.7,3.6
 22,2016,Malachi Richardson,Syracuse University,/players/r/richama01.html,37,1272,152,412,79,224,113,157,19,158,77,42,10,79,91,496,.369,.353,.720,34.4,13.4,4.3,2.1
-25,2016,Brice Johnson,University of North Carolina,/players/j/johnsbr02.html,148,3102,734,1272,0,0,298,417,314,1035,133,111,163,187,369,1766,.577,,.715,21.0,11.9,7.0,0.9
+25,2016,Brice Johnson,University of North Carolina,/players/j/johnsbr02.html,148,3102,734,1272,0,0,298,417,314,1035,133,111,163,187,369,1766,.577,0,.715,21.0,11.9,7.0,0.9
 27,2016,Pascal Siakam,New Mexico State University,/players/s/siakapa01.html,68,2224,441,800,3,17,241,339,243,657,103,62,136,131,180,1126,.551,.176,.711,32.7,16.6,9.7,1.5
 28,2016,Skal Labissiere,University of Kentucky,/players/l/labissk01.html,36,567,98,190,0,2,41,62,35,113,11,9,59,33,108,237,.516,.000,.661,15.8,6.6,3.1,0.3
 29,2016,Dejounte Murray,University of Washington,/players/m/murrade01.html,34,1139,202,486,34,118,110,166,48,203,151,62,10,110,90,548,.416,.288,.663,33.5,16.1,6.0,4.4
 30,2016,Damian Jones,Vanderbilt University,/players/j/jonesda03.html,99,2684,508,897,1,8,296,524,207,630,71,37,167,197,301,1313,.566,.125,.565,27.1,13.3,6.4,0.7
-31,2016,Deyonta Davis,Michigan State University,/players/d/davisde01.html,35,650,119,199,0,0,23,38,72,191,26,9,64,30,80,261,.598,,.605,18.6,7.5,5.5,0.7
-33,2016,Cheick Diallo,University of Kansas,/players/d/diallch01.html,27,202,33,58,0,0,15,27,17,68,1,7,23,17,38,81,.569,,.556,7.5,3.0,2.5,0.0
+31,2016,Deyonta Davis,Michigan State University,/players/d/davisde01.html,35,650,119,199,0,0,23,38,72,191,26,9,64,30,80,261,.598,0,.605,18.6,7.5,5.5,0.7
+33,2016,Cheick Diallo,University of Kansas,/players/d/diallch01.html,27,202,33,58,0,0,15,27,17,68,1,7,23,17,38,81,.569,0,.556,7.5,3.0,2.5,0.0
 34,2016,Tyler Ulis,University of Kentucky,/players/u/ulisty01.html,72,2170,259,607,88,237,209,247,35,172,381,88,6,107,120,815,.427,.371,.846,30.1,11.3,2.4,5.3
 36,2016,Malcolm Brogdon,University of Virginia,/players/b/brogdma01.html,136,4157,601,1399,185,507,422,482,82,563,335,117,31,207,250,1809,.430,.365,.876,30.6,13.3,4.1,2.5
 37,2016,Chinanu Onuaku,University of Louisville,/players/o/onuakch01.html,66,1385,182,294,0,1,47,86,160,423,70,50,104,109,175,411,.619,.000,.547,21.0,6.2,6.4,1.1
-38,2016,Patrick McCaw,University of Nevada, Las Vegas,/players/m/mccawpa01.html,65,2060,273,622,125,341,122,162,61,273,214,129,23,125,122,793,.439,.367,.753,31.7,12.2,4.2,3.3
-40,2016,Diamond Stone,University of Maryland,/players/s/stonedi01.html,35,807,167,294,0,0,102,134,77,188,15,18,55,53,80,436,.568,,.761,23.1,12.5,5.4,0.4
-41,2016,Stephen Zimmerman,University of Nevada, Las Vegas,/players/z/zimmest01.html,26,680,102,214,5,17,63,101,56,227,22,14,51,54,79,272,.477,.294,.624,26.2,10.5,8.7,0.8
+38,2016,Patrick McCaw,University of Nevada Las Vegas,/players/m/mccawpa01.html,65,2060,273,622,125,341,122,162,61,273,214,129,23,125,122,793,.439,.367,.753,31.7,12.2,4.2,3.3
+40,2016,Diamond Stone,University of Maryland,/players/s/stonedi01.html,35,807,167,294,0,0,102,134,77,188,15,18,55,53,80,436,.568,0,.761,23.1,12.5,5.4,0.4
+41,2016,Stephen Zimmerman,University of Nevada Las Vegas,/players/z/zimmest01.html,26,680,102,214,5,17,63,101,56,227,22,14,51,54,79,272,.477,.294,.624,26.2,10.5,8.7,0.8
 42,2016,Isaiah Whitehead,Seton Hall University,/players/w/whiteis01.html,56,1710,285,760,117,326,196,259,40,207,251,70,63,192,131,883,.375,.359,.757,30.5,15.8,3.7,4.5
 45,2016,Demetrius Jackson,University of Notre Dame,/players/j/jacksde01.html,103,3243,415,888,133,349,241,308,90,322,335,114,23,170,197,1204,.467,.381,.782,31.5,11.7,3.1,3.3
 46,2016,A.J. Hammons,Purdue University,/players/h/hammoaj01.html,132,3201,613,1138,6,23,361,523,314,930,104,50,343,271,325,1593,.539,.261,.690,24.3,12.1,7.0,0.8

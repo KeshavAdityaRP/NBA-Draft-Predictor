@@ -1,0 +1,147 @@
+pick,year,name,university,link,g,mp,fg,fga,fg3,fg3a,ft,fta,orb,trb,ast,stl,blk,tov,pf,pts,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g
+1,2018,Deandre Ayton,University of Arizona,/players/a/aytonde01.html,35,1172,276,451,12,35,140,191,118,405,57,20,66,69,81,704,.612,.343,.733,33.5,20.1,11.6,1.6
+2,2018,Marvin Bagley,Duke University,/players/b/baglema01.html,33,1114,270,440,23,58,131,209,132,366,50,27,29,75,60,694,.614,.397,.627,33.8,21.0,11.1,1.5
+4,2018,Jaren Jackson,Michigan State University,/players/j/jacksja02.html,35,764,119,232,38,96,106,133,52,203,39,21,106,62,112,382,.513,.396,.797,21.8,10.9,5.8,1.1
+5,2018,Trae Young,University of Oklahoma,/players/y/youngtr01.html,32,1133,261,618,118,328,236,274,14,125,279,54,8,167,57,876,.422,.360,.861,35.4,27.4,3.9,8.7
+6,2018,Mohamed Bamba,University of Texas at Austin,/players/b/bambamo01.html,30,906,146,270,14,51,81,119,96,316,15,23,111,46,76,387,.541,.275,.681,30.2,12.9,10.5,0.5
+7,2018,Wendell Carter,Duke University,/players/c/cartewe01.html,37,993,179,319,19,46,124,168,109,335,74,30,76,75,105,501,.561,.413,.738,26.8,13.5,9.1,2.0
+8,2018,Collin Sexton,University of Alabama,/players/s/sextoco01.html,33,987,196,438,44,131,196,252,34,124,119,28,3,92,81,632,.447,.336,.778,29.9,19.2,3.8,3.6
+9,2018,Kevin Knox,University of Kentucky,/players/k/knoxke01.html,37,1198,196,440,57,167,127,164,33,200,53,31,10,85,82,576,.445,.341,.774,32.4,15.6,5.4,1.4
+10,2018,Mikal Bridges,Villanova University,/players/b/bridgmi01.html,116,3171,458,873,171,428,224,265,131,504,183,163,101,124,257,1311,.525,.400,.845,27.3,11.3,4.3,1.6
+11,2018,Shai Gilgeous-Alexander,University of Kentucky,/players/g/gilgesh01.html,37,1248,183,377,23,57,143,175,33,153,189,61,18,100,62,532,.485,.404,.817,33.7,14.4,4.1,5.1
+12,2018,Miles Bridges,Michigan State University,/players/b/bridgmi02.html,62,1962,386,821,127,339,156,201,84,469,150,40,69,133,105,1055,.470,.375,.776,31.6,17.0,7.6,2.4
+13,2018,Jerome Robinson,Boston College,/players/r/robinje01.html,90,3118,562,1249,159,423,308,408,46,343,294,117,24,259,226,1591,.450,.376,.755,34.6,17.7,3.8,3.3
+14,2018,Michael Porter,University of Missouri,/players/p/portemi01.html,3,53,10,30,3,10,7,9,4,20,1,3,1,3,6,30,.333,.300,.778,17.7,10.0,6.7,0.3
+15,2018,Troy Brown,University of Oregon,/players/b/browntr01.html,35,1093,143,322,32,110,78,105,53,217,111,55,7,86,78,396,.444,.291,.743,31.2,11.3,6.2,3.2
+16,2018,Zhaire Smith,Texas Tech University,/players/s/smithzh01.html,37,1050,154,277,18,40,91,127,83,185,66,42,42,41,67,417,.556,.450,.717,28.4,11.3,5.0,1.8
+17,2018,Donte DiVincenzo,Villanova University,/players/d/divindo01.html,85,2163,303,646,130,344,134,190,93,343,204,79,18,137,151,870,.469,.378,.705,25.4,10.2,4.0,2.4
+18,2018,Lonnie Walker,University of Miami,/players/w/walkelo01.html,32,888,132,318,56,162,48,65,13,83,61,30,15,37,51,368,.415,.346,.738,27.8,11.5,2.6,1.9
+19,2018,Kevin Huerter,University of Maryland,/players/h/huertke01.html,65,2072,273,586,138,350,95,127,53,324,196,52,44,126,136,779,.466,.394,.748,31.9,12.0,5.0,3.0
+20,2018,Josh Okogie,Georgia Institute of Technology,/players/o/okogijo01.html,61,2014,327,748,66,173,313,403,109,351,120,90,50,138,164,1033,.437,.382,.777,33.0,16.9,5.8,2.0
+21,2018,Grayson Allen,Duke University,/players/a/allengr01.html,142,3962,606,1409,291,766,493,591,76,450,432,147,14,240,297,1996,.430,.380,.834,27.9,14.1,3.2,3.0
+22,2018,Chandler Hutchison,Boise State University,/players/h/hutchch01.html,123,2948,523,1098,79,224,353,514,138,672,255,120,29,236,268,1478,.476,.353,.687,24.0,12.0,5.5,2.1
+23,2018,Aaron Holiday,University of California Los Angeles,/players/h/holidaa01.html,101,3209,476,1058,180,427,311,391,48,320,477,126,22,304,271,1443,.450,.422,.795,31.8,14.3,3.2,4.7
+25,2018,Moritz Wagner,University of Michigan,/players/w/wagnemo01.html,107,2244,421,770,110,286,162,232,128,484,57,83,40,126,269,1114,.547,.385,.698,21.0,10.4,4.5,0.5
+26,2018,Landry Shamet,Wichita State University,/players/s/shamela01.html,71,2029,296,617,159,364,163,201,39,213,288,54,14,108,146,914,.480,.437,.811,28.6,12.9,3.0,4.1
+27,2018,Robert Williams,Texas A&M University,/players/w/williro04.html,61,1570,293,496,2,30,92,170,165,530,87,45,155,106,123,680,.591,.067,.541,25.7,11.1,8.7,1.4
+28,2018,Jacob Evans,University of Cincinnati,/players/e/evansja02.html,105,3051,423,985,174,462,213,282,139,455,263,120,92,133,209,1233,.429,.377,.755,29.1,11.7,4.3,2.5
+30,2018,Omari Spellman,Villanova University,/players/s/spellom01.html,40,1125,160,336,65,150,49,70,90,321,30,26,59,40,92,434,.476,.433,.700,28.1,10.9,8.0,0.8
+32,2018,Jevon Carter,West Virginia University,/players/c/carteje01.html,144,4269,587,1441,241,678,343,430,131,538,559,330,34,264,358,1758,.407,.355,.798,29.6,12.2,3.7,3.9
+33,2018,Jalen Brunson,Villanova University,/players/b/brunsja01.html,116,3349,579,1135,177,450,332,405,47,285,432,97,1,217,209,1667,.510,.393,.820,28.9,14.4,2.5,3.7
+34,2018,Devonte' Graham,University of Kansas,/players/g/grahade01.html,142,4498,546,1295,296,723,362,460,62,439,632,197,14,270,237,1750,.422,.409,.787,31.7,12.3,3.1,4.5
+35,2018,Melvin Frazier,Tulane University,/players/f/frazime01.html,94,2601,359,746,81,260,198,303,115,413,156,152,45,187,189,997,.481,.312,.653,27.7,10.6,4.4,1.7
+37,2018,Gary Trent,Duke University,/players/t/trentga02.html,37,1249,177,427,97,241,85,97,31,157,52,43,5,38,62,536,.415,.402,.876,33.8,14.5,4.2,1.4
+38,2018,Khyri Thomas,Creighton University,/players/t/thomakh01.html,102,2773,429,839,131,323,151,210,116,471,255,141,26,165,180,1140,.511,.406,.719,27.2,11.2,4.6,2.5
+41,2018,Jarred Vanderbilt,University of Kentucky,/players/v/vandeja01.html,14,238,29,68,0,1,24,38,46,110,14,6,11,15,37,82,.426,.000,.632,17.0,5.9,7.9,1.0
+42,2018,Bruce Brown,University of Miami,/players/b/brownbr01.html,52,1693,212,480,49,155,134,191,73,321,182,74,33,110,126,607,.442,.316,.702,32.6,11.7,6.2,3.5
+43,2018,Justin Jackson,University of Maryland,/players/j/jacksju02.html,44,1240,154,368,56,145,91,125,85,288,52,38,35,86,87,455,.418,.386,.728,28.2,10.3,6.5,1.2
+45,2018,Hamidou Diallo,University of Kentucky,/players/d/diallha01.html,37,918,134,313,26,77,77,125,32,134,46,28,13,51,96,371,.428,.338,.616,24.8,10.0,3.6,1.2
+46,2018,De'Anthony Melton,University of Southern California,/players/m/meltode01.html,36,972,101,231,21,74,77,109,50,170,125,69,37,64,81,300,.437,.284,.706,27.0,8.3,4.7,3.5
+47,2018,Sviatoslav Mykhailiuk,University of Kansas,/players/m/mykhasv01.html,136,3070,422,986,237,579,100,134,93,340,202,97,27,146,227,1181,.428,.409,.746,22.6,8.7,2.5,1.5
+48,2018,Keita Bates-Diop,Ohio State University,/players/b/bateske01.html,109,2702,469,993,123,349,211,272,124,621,121,68,128,133,155,1272,.472,.352,.776,24.8,11.7,5.7,1.1
+49,2018,Chimezie Metu,University of Southern California,/players/m/metuch01.html,104,2809,495,928,13,43,281,406,191,656,121,74,168,180,261,1284,.533,.302,.692,27.0,12.3,6.3,1.2
+50,2018,Alize Johnson,Missouri State,/players/j/johnsal02.html,66,2025,341,746,81,249,219,306,214,735,157,35,20,150,152,982,.457,.325,.716,30.7,14.9,11.1,2.4
+51,2018,Tony Carr,Pennsylvania State University,/players/c/carrto01.html,70,2392,386,974,121,306,268,341,55,341,325,52,20,171,141,1161,.396,.395,.786,34.2,16.6,4.9,4.6
+52,2018,Vince Edwards,Purdue University,/players/e/edwarvi01.html,138,3957,589,1244,173,441,287,350,265,779,403,69,64,237,277,1638,.473,.392,.820,28.7,11.9,5.6,2.9
+53,2018,Devon Hall,University of Virginia,/players/h/hallde01.html,128,3075,305,728,115,296,159,197,44,407,264,73,20,115,183,884,.419,.389,.807,24.0,6.9,3.2,2.1
+54,2018,Shake Milton,Southern Methodist University,/players/m/miltosh01.html,87,3019,388,859,190,445,200,253,38,336,337,99,33,159,135,1166,.452,.427,.791,34.7,13.4,3.9,3.9
+56,2018,Ray Spalding,University of Louisville,/players/s/spaldra01.html,100,2174,332,596,6,25,143,247,228,630,89,104,111,131,261,813,.557,.240,.579,21.7,8.1,6.3,0.9
+57,2018,Kevin Hervey,University of Texas at Arlington,/players/h/herveke01.html,115,3186,631,1435,204,630,317,413,221,921,216,114,55,236,215,1783,.440,.324,.768,27.7,15.5,8.0,1.9
+58,2018,Thomas Welsh,University of California Los Angeles,/players/w/welshth01.html,132,3295,532,990,46,113,138,173,311,1035,103,55,143,90,331,1248,.537,.407,.798,25.0,9.5,7.8,0.8
+59,2018,George King,University of Colorado,/players/k/kingge03.html,127,2866,444,1001,181,451,225,308,183,681,88,50,37,196,224,1294,.444,.401,.731,22.6,10.2,5.4,0.7
+60,2018,Kostas Antetokounmpo,University of Dayton,/players/a/antetko01.html,29,438,58,101,2,15,33,64,24,83,13,7,31,39,66,151,.574,.133,.516,15.1,5.2,2.9,0.4
+1,2017,Markelle Fultz,University of Washington,/players/f/fultzma01.html,25,892,209,439,52,126,109,168,33,143,148,40,30,80,63,579,.476,.413,.649,35.7,23.2,5.7,5.9
+2,2017,Lonzo Ball,University of California Los Angeles,/players/b/balllo01.html,36,1263,189,343,80,194,66,98,33,216,274,66,28,89,65,524,.551,.412,.673,35.1,14.6,6.0,7.6
+3,2017,Jayson Tatum,Duke University,/players/t/tatumja01.html,29,966,165,365,40,117,118,139,39,213,62,39,33,76,86,488,.452,.342,.849,33.3,16.8,7.3,2.1
+4,2017,Josh Jackson,University of Kansas,/players/j/jacksjo02.html,35,1077,220,429,34,90,98,173,81,258,104,59,37,97,104,572,.513,.378,.566,30.8,16.3,7.4,3.0
+5,2017,De'Aaron Fox,University of Kentucky,/players/f/foxde01.html,36,1064,214,447,17,69,156,212,21,143,165,53,7,87,90,601,.479,.246,.736,29.6,16.7,4.0,4.6
+6,2017,Jonathan Isaac,Florida State University,/players/i/isaacjo01.html,32,839,130,256,31,89,92,118,56,251,37,37,49,48,70,383,.508,.348,.780,26.2,12.0,7.8,1.2
+7,2017,Lauri Markkanen,University of Arizona,/players/m/markkla01.html,37,1140,185,376,69,163,137,164,88,266,32,15,19,40,73,576,.492,.423,.835,30.8,15.6,7.2,0.9
+9,2017,Dennis Smith,North Carolina State University,/players/s/smithde03.html,32,1114,191,420,55,153,143,200,26,146,197,62,14,108,67,580,.455,.359,.715,34.8,18.1,4.6,6.2
+10,2017,Zach Collins,Gonzaga University,/players/c/colliza01.html,39,673,135,207,10,21,110,148,66,230,16,18,69,60,105,390,.652,.476,.743,17.3,10.0,5.9,0.4
+11,2017,Malik Monk,University of Kentucky,/players/m/monkma01.html,38,1218,251,558,104,262,148,180,12,95,87,36,19,75,72,754,.450,.397,.822,32.1,19.8,2.5,2.3
+12,2017,Luke Kennard,Duke University,/players/k/kennalu01.html,73,2275,378,820,143,373,248,286,78,317,146,65,19,87,152,1147,.461,.383,.867,31.2,15.7,4.3,2.0
+13,2017,Donovan Mitchell,University of Louisville,/players/m/mitchdo01.html,65,1689,265,634,98,298,130,165,71,269,145,95,20,86,166,758,.418,.329,.788,26.0,11.7,4.1,2.2
+14,2017,Bam Adebayo,University of Kentucky,/players/a/adebaba01.html,38,1145,170,284,0,0,154,236,118,304,32,26,57,64,99,494,.599,-1,.653,30.1,13.0,8.0,0.8
+15,2017,Justin Jackson,University of North Carolina,/players/j/jacksju01.html,118,3430,623,1353,170,500,232,326,181,481,312,76,45,164,179,1648,.460,.340,.712,29.1,14.0,4.1,2.6
+16,2017,Justin Patton,Creighton University,/players/p/pattoju01.html,35,885,200,296,8,15,45,87,59,218,41,30,50,60,96,453,.676,.533,.517,25.3,12.9,6.2,1.2
+17,2017,D.J. Wilson,University of Michigan,/players/w/wilsodj01.html,69,1337,192,366,49,135,58,71,62,227,58,25,70,52,97,491,.525,.363,.817,19.4,7.1,3.3,0.8
+18,2017,T.J. Leaf,University of California Los Angeles,/players/l/leaftj01.html,35,1048,235,381,27,58,72,106,78,287,85,22,39,52,89,569,.617,.466,.679,29.9,16.3,8.2,2.4
+19,2017,John Collins,Wake Forest University,/players/c/collijo01.html,64,1324,315,524,0,1,229,314,176,446,24,30,75,91,180,859,.601,.000,.729,20.7,13.4,7.0,0.4
+20,2017,Harry Giles,Duke University,/players/g/gilesha01.html,26,300,45,78,0,0,12,24,41,100,9,9,17,18,58,102,.577,-1,.500,11.5,3.9,3.8,0.3
+22,2017,Jarrett Allen,University of Texas at Austin,/players/a/allenja01.html,33,1061,179,316,0,7,84,149,100,278,27,19,51,84,68,442,.566,.000,.564,32.2,13.4,8.4,0.8
+23,2017,OG Anunoby,Indiana University,/players/a/anunoog01.html,50,868,134,238,27,74,47,90,70,177,41,48,47,54,85,342,.563,.365,.522,17.4,6.8,3.5,0.8
+24,2017,Tyler Lydon,Syracuse University,/players/l/lydonty01.html,71,2349,278,584,98,245,169,209,145,527,111,77,116,106,184,823,.476,.400,.809,33.1,11.6,7.4,1.6
+26,2017,Caleb Swanigan,Purdue University,/players/s/swanica01.html,69,2014,352,703,59,157,231,304,150,718,168,27,36,208,172,994,.501,.376,.760,29.2,14.4,10.4,2.4
+27,2017,Kyle Kuzma,University of Utah,/players/k/kuzmaky01.html,96,2013,372,735,51,169,171,270,155,532,141,31,35,151,151,966,.506,.302,.633,21.0,10.1,5.5,1.5
+28,2017,Tony Bradley,University of North Carolina,/players/b/bradlto01.html,38,553,102,178,0,0,65,105,98,195,23,10,22,25,69,269,.573,-1,.619,14.6,7.1,5.1,0.6
+29,2017,Derrick White,University of Colorado,/players/w/whitede01.html,34,1116,205,404,57,144,148,182,35,139,148,42,49,81,72,615,.507,.396,.813,32.8,18.1,4.1,4.4
+30,2017,Josh Hart,Villanova University,/players/h/hartjo01.html,146,4093,677,1326,207,532,360,500,252,812,266,161,43,194,327,1921,.511,.389,.720,28.0,13.2,5.6,1.8
+31,2017,Frank Jackson,Duke University,/players/j/jacksfr01.html,36,895,133,281,51,129,77,102,23,90,61,20,2,49,85,394,.473,.395,.755,24.9,10.9,2.5,1.7
+32,2017,Davon Reed,University of Miami,/players/r/reedda01.html,131,3679,438,1018,202,512,265,340,86,477,216,113,48,187,247,1343,.430,.395,.779,28.1,10.3,3.6,1.6
+33,2017,Wesley Iwundu,Kansas State University,/players/i/iwundwe01.html,132,3728,425,917,51,151,348,506,152,618,366,121,52,280,277,1249,.463,.338,.688,28.2,9.5,4.7,2.8
+34,2017,Frank Mason,University of Kansas,/players/m/masonfr01.html,145,4345,609,1340,185,440,482,633,79,500,576,165,10,270,287,1885,.454,.420,.761,30.0,13.0,3.4,4.0
+35,2017,Ivan Rabb,University of California,/players/r/rabbiv01.html,65,1987,312,574,9,22,227,341,188,614,79,39,73,119,201,860,.544,.409,.666,30.6,13.2,9.4,1.2
+37,2017,Semi Ojeleye,Southern Methodist University,/players/o/ojelese01.html,58,1338,222,463,81,195,186,237,90,269,56,22,18,55,79,711,.479,.415,.785,23.1,12.3,4.6,1.0
+38,2017,Jordan Bell,University of Oregon,/players/b/belljo01.html,105,2591,345,566,3,16,121,192,224,719,155,111,234,162,241,814,.610,.188,.630,24.7,7.8,6.8,1.5
+39,2017,Jawun Evans,Oklahoma State University,/players/e/evansja01.html,54,1571,308,688,55,135,225,275,34,206,312,82,8,146,128,896,.448,.407,.818,29.1,16.6,3.8,5.8
+40,2017,Dwayne Bacon,Florida State University,/players/b/bacondw01.html,69,1987,418,930,89,285,214,292,81,344,111,68,5,145,128,1139,.449,.312,.733,28.8,16.5,5.0,1.6
+41,2017,Tyler Dorsey,University of Oregon,/players/d/dorsety01.html,75,2252,342,752,155,373,216,295,81,290,138,59,11,128,133,1055,.455,.416,.732,30.0,14.1,3.9,1.8
+42,2017,Thomas Bryant,Indiana University,/players/b/bryanth01.html,69,1745,305,515,28,75,204,284,146,428,84,43,84,136,203,842,.592,.373,.718,25.3,12.2,6.2,1.2
+44,2017,Damyean Dotson,University of Oregon,/players/d/dotsoda01.html,134,3906,645,1390,243,639,199,250,166,675,149,101,21,154,214,1732,.464,.380,.796,29.1,12.9,5.0,1.1
+45,2017,Dillon Brooks,University of Oregon,/players/b/brookdi01.html,109,3153,587,1243,133,367,305,384,174,495,279,96,51,234,320,1612,.472,.362,.794,28.9,14.8,4.5,2.6
+46,2017,Sterling Brown,Southern Methodist University,/players/b/brownst02.html,136,3492,394,782,128,284,194,252,190,653,294,139,51,210,304,1110,.504,.451,.770,25.7,8.2,4.8,2.2
+47,2017,Ike Anigbogu,University of California Los Angeles,/players/a/anigbik01.html,29,377,57,101,0,0,23,43,41,117,6,5,35,24,72,137,.564,-1,.535,13.0,4.7,4.0,0.2
+48,2017,Sindarius Thornwell,University of South Carolina,/players/t/thornsi01.html,132,4194,596,1521,179,528,570,739,214,685,390,199,78,331,320,1941,.392,.339,.771,31.8,14.7,5.2,3.0
+51,2017,Monte Morris,Iowa State University,/players/m/morrimo01.html,140,4734,636,1336,152,399,284,364,108,516,768,225,41,165,212,1708,.476,.381,.780,33.8,12.2,3.7,5.5
+52,2017,Edmond Sumner,Xavier University,/players/s/sumneed01.html,59,1542,205,478,37,130,216,296,30,202,223,68,22,128,132,663,.429,.285,.730,26.1,11.2,3.4,3.8
+53,2017,Kadeem Allen,University of Arizona,/players/a/allenka01.html,68,1868,207,451,50,125,153,211,20,243,222,88,48,133,165,617,.459,.400,.725,27.5,9.1,3.6,3.3
+54,2017,Alec Peters,Valparaiso University,/players/p/peteral01.html,134,4250,790,1623,289,694,479,566,264,996,204,102,38,248,283,2348,.487,.416,.846,31.7,17.5,7.4,1.5
+55,2017,Nigel Williams-Goss,Gonzaga University,/players/w/willini01.html,100,3415,574,1236,97,293,291,361,69,509,496,133,13,258,191,1536,.464,.331,.806,34.2,15.4,5.1,5.0
+56,2017,Jabari Bird,University of California,/players/b/birdja01.html,114,3013,450,1018,187,504,140,186,90,374,132,58,35,137,197,1227,.442,.371,.753,26.4,10.8,3.3,1.2
+59,2017,Jaron Blossomgame,Clemson University,/players/b/blossja01.html,128,3925,627,1286,96,304,383,529,242,831,141,83,95,190,211,1733,.488,.316,.724,30.7,13.5,6.5,1.1
+1,2016,Ben Simmons,Louisiana State University,/players/s/simmobe01.html,33,1151,216,386,1,3,199,297,103,388,158,65,27,111,92,632,.560,.333,.670,34.9,19.2,11.8,4.8
+2,2016,Brandon Ingram,Duke University,/players/i/ingrabr01.html,36,1246,214,484,80,195,116,170,67,244,72,41,49,72,74,624,.442,.410,.682,34.6,17.3,6.8,2.0
+3,2016,Jaylen Brown,University of California,/players/b/brownja02.html,34,939,163,378,30,102,142,217,36,182,68,27,22,105,108,498,.431,.294,.654,27.6,14.6,5.4,2.0
+5,2016,Kris Dunn,Providence College,/players/d/dunnkr01.html,95,2997,424,943,73,206,293,423,106,486,552,208,38,315,280,1214,.450,.354,.693,31.5,12.8,5.1,5.8
+6,2016,Buddy Hield,University of Oklahoma,/players/h/hieldbu01.html,132,4182,783,1748,349,894,376,450,209,661,254,168,38,285,259,2291,.448,.390,.836,31.7,17.4,5.0,1.9
+7,2016,Jamal Murray,University of Kentucky,/players/m/murraja01.html,36,1267,244,538,113,277,119,152,53,186,79,35,11,84,75,720,.454,.408,.783,35.2,20.0,5.2,2.2
+8,2016,Marquese Chriss,University of Washington,/players/c/chrisma01.html,34,848,179,338,21,60,88,129,85,183,26,32,55,69,138,467,.530,.350,.682,24.9,13.7,5.4,0.8
+9,2016,Jakob Poeltl,University of Utah,/players/p/poeltja01.html,70,1885,356,541,0,1,219,362,194,557,93,33,119,129,165,931,.658,.000,.605,26.9,13.3,8.0,1.3
+11,2016,Domantas Sabonis,Gonzaga University,/players/s/sabondo01.html,74,1971,384,608,5,14,229,314,192,694,97,39,43,151,219,1002,.632,.357,.729,26.6,13.5,9.4,1.3
+12,2016,Taurean Prince,Baylor University,/players/p/princta02.html,129,2604,468,1017,130,346,255,355,202,547,145,121,63,221,271,1321,.460,.376,.718,20.2,10.2,4.2,1.1
+14,2016,Denzel Valentine,Michigan State University,/players/v/valende01.html,144,4182,579,1309,265,650,222,285,157,855,639,132,40,317,303,1645,.442,.408,.779,29.0,11.4,5.9,4.4
+17,2016,Wade Baldwin,Vanderbilt University,/players/b/baldwwa01.html,68,2011,234,543,84,199,240,300,30,277,327,90,15,158,171,792,.431,.422,.800,29.6,11.6,4.1,4.8
+18,2016,Henry Ellenson,Marquette University,/players/e/ellenhe01.html,33,1107,194,435,30,104,143,191,71,321,59,28,49,78,84,561,.446,.288,.749,33.5,17.0,9.7,1.8
+19,2016,Malik Beasley,Florida State University,/players/b/beaslma01.html,34,1014,185,393,55,142,104,128,44,180,51,32,6,59,75,529,.471,.387,.813,29.8,15.6,5.3,1.5
+20,2016,Caris LeVert,University of Michigan,/players/l/leverca01.html,103,2721,366,843,134,334,204,265,39,364,275,97,22,136,151,1070,.434,.401,.770,26.4,10.4,3.5,2.7
+21,2016,DeAndre Bembry,Saint Joseph's University,/players/b/bembrde01.html,101,3645,580,1270,120,385,310,494,137,672,364,143,78,248,249,1590,.457,.312,.628,36.1,15.7,6.7,3.6
+22,2016,Malachi Richardson,Syracuse University,/players/r/richama01.html,37,1272,152,412,79,224,113,157,19,158,77,42,10,79,91,496,.369,.353,.720,34.4,13.4,4.3,2.1
+25,2016,Brice Johnson,University of North Carolina,/players/j/johnsbr02.html,148,3102,734,1272,0,0,298,417,314,1035,133,111,163,187,369,1766,.577,-1,.715,21.0,11.9,7.0,0.9
+27,2016,Pascal Siakam,New Mexico State University,/players/s/siakapa01.html,68,2224,441,800,3,17,241,339,243,657,103,62,136,131,180,1126,.551,.176,.711,32.7,16.6,9.7,1.5
+28,2016,Skal Labissiere,University of Kentucky,/players/l/labissk01.html,36,567,98,190,0,2,41,62,35,113,11,9,59,33,108,237,.516,.000,.661,15.8,6.6,3.1,0.3
+29,2016,Dejounte Murray,University of Washington,/players/m/murrade01.html,34,1139,202,486,34,118,110,166,48,203,151,62,10,110,90,548,.416,.288,.663,33.5,16.1,6.0,4.4
+30,2016,Damian Jones,Vanderbilt University,/players/j/jonesda03.html,99,2684,508,897,1,8,296,524,207,630,71,37,167,197,301,1313,.566,.125,.565,27.1,13.3,6.4,0.7
+31,2016,Deyonta Davis,Michigan State University,/players/d/davisde01.html,35,650,119,199,0,0,23,38,72,191,26,9,64,30,80,261,.598,-1,.605,18.6,7.5,5.5,0.7
+33,2016,Cheick Diallo,University of Kansas,/players/d/diallch01.html,27,202,33,58,0,0,15,27,17,68,1,7,23,17,38,81,.569,-1,.556,7.5,3.0,2.5,0.0
+34,2016,Tyler Ulis,University of Kentucky,/players/u/ulisty01.html,72,2170,259,607,88,237,209,247,35,172,381,88,6,107,120,815,.427,.371,.846,30.1,11.3,2.4,5.3
+36,2016,Malcolm Brogdon,University of Virginia,/players/b/brogdma01.html,136,4157,601,1399,185,507,422,482,82,563,335,117,31,207,250,1809,.430,.365,.876,30.6,13.3,4.1,2.5
+37,2016,Chinanu Onuaku,University of Louisville,/players/o/onuakch01.html,66,1385,182,294,0,1,47,86,160,423,70,50,104,109,175,411,.619,.000,.547,21.0,6.2,6.4,1.1
+38,2016,Patrick McCaw,University of Nevada Las Vegas,/players/m/mccawpa01.html,65,2060,273,622,125,341,122,162,61,273,214,129,23,125,122,793,.439,.367,.753,31.7,12.2,4.2,3.3
+40,2016,Diamond Stone,University of Maryland,/players/s/stonedi01.html,35,807,167,294,0,0,102,134,77,188,15,18,55,53,80,436,.568,-1,.761,23.1,12.5,5.4,0.4
+41,2016,Stephen Zimmerman,University of Nevada Las Vegas,/players/z/zimmest01.html,26,680,102,214,5,17,63,101,56,227,22,14,51,54,79,272,.477,.294,.624,26.2,10.5,8.7,0.8
+42,2016,Isaiah Whitehead,Seton Hall University,/players/w/whiteis01.html,56,1710,285,760,117,326,196,259,40,207,251,70,63,192,131,883,.375,.359,.757,30.5,15.8,3.7,4.5
+45,2016,Demetrius Jackson,University of Notre Dame,/players/j/jacksde01.html,103,3243,415,888,133,349,241,308,90,322,335,114,23,170,197,1204,.467,.381,.782,31.5,11.7,3.1,3.3
+46,2016,A.J. Hammons,Purdue University,/players/h/hammoaj01.html,132,3201,613,1138,6,23,361,523,314,930,104,50,343,271,325,1593,.539,.261,.690,24.3,12.1,7.0,0.8
+47,2016,Jake Layman,University of Maryland,/players/l/laymaja01.html,141,3938,482,1083,198,547,274,361,159,674,156,123,113,204,272,1436,.445,.362,.759,27.9,10.2,4.8,1.1
+49,2016,Michael Gbinije,Syracuse University,/players/g/gbinimi01.html,120,3061,409,900,159,411,200,313,101,377,310,154,31,194,257,1177,.454,.387,.639,25.5,9.8,3.1,2.6
+50,2016,Georges Niang,Iowa State University,/players/n/niangge01.html,138,4110,849,1697,188,502,342,448,162,714,421,92,67,318,422,2228,.500,.375,.763,29.8,16.1,5.2,3.1
+51,2016,Ben Bentil,Providence College,/players/b/bentibe01.html,69,1928,321,705,61,188,251,330,173,434,61,39,48,107,186,954,.455,.324,.761,27.9,13.8,6.3,0.9
+52,2016,Joel Bolomboy,Weber State University,/players/b/bolomjo01.html,130,3743,492,931,36,97,464,651,412,1312,93,72,178,260,304,1484,.528,.371,.713,28.8,11.4,10.1,0.7
+54,2016,Kay Felder,Oakland University,/players/f/feldeka01.html,101,3626,554,1300,143,415,514,625,67,436,788,164,19,350,287,1765,.426,.345,.822,35.9,17.5,4.3,7.8
+55,2016,Marcus Paige,University of North Carolina,/players/p/paigema01.html,141,4570,605,1487,303,810,357,421,55,399,601,203,35,274,242,1870,.407,.374,.848,32.4,13.3,2.8,4.3
+56,2016,Daniel Hamilton,University of Connecticut,/players/h/hamilda02.html,71,2247,298,777,93,276,142,184,70,588,298,71,28,166,152,831,.384,.337,.772,31.6,11.7,8.3,4.2
+58,2016,Abdel Nader,Iowa State University,/players/n/naderab01.html,117,2845,432,1106,128,420,215,294,104,503,127,95,71,267,287,1207,.391,.305,.731,24.3,10.3,4.3,1.1
+59,2016,Isaiah Cousins,University of Oklahoma,/players/c/cousiis01.html,137,3794,474,1162,176,432,202,284,113,529,365,157,36,254,276,1326,.408,.407,.711,27.7,9.7,3.9,2.7
+60,2016,Tyrone Wallace,University of California,/players/w/wallaty01.html,129,4074,588,1417,118,404,329,537,130,674,436,139,55,279,328,1623,.415,.292,.613,31.6,12.6,5.2,3.4
+

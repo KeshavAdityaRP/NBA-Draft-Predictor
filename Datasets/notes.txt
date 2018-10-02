@@ -1,0 +1,17 @@
+Step 1: 
+
+Plot in strides of 10 / 20 (Draft 1 - 60, 6 categories / Draft 1 - 60, 3 categories) vs each feature individually 
+
+Result : Features most important to distungish between top prospect from the rest 
+
+Step 2: 
+
+Use these features vs Draft Pick Number to create a regression plot -> Then Predict Top Prospect
+
+Step 3: 
+
+Benchmark above against : All features vs Draft Pick Number to create a regression plot -> Then Predict Top Prospect
+
+Step 4:
+
+Perform supervised clustering to group these categories to the best possible fit -> Check by seeing which category a prospect falls into  
